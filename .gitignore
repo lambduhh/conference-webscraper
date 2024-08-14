@@ -1,0 +1,5 @@
+secrets.edn
+google-service-account.json
+.cpcache
+.nrepl-port
+node_modules
